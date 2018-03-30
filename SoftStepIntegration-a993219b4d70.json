@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "softstepintegration",
+  "private_key_id": "a993219b4d708ea333e1f6bb00ef2a3577cf7cd3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC842EbEvuh/H7h\nxattTNT7Nc5rSUru7mDjhqnLeChpylS5FoNo0ckUiiN1/IPsDnIVET4Oc91Wwcko\nbSA8mMm4S+kVQCshpFwdJpu4ljsYSlQ28/UbMO8BnYrD34PgOTt97ofL0OgPfCd0\nfTijOCMzok3FdjwMK9jP1ve6KEyzlZWqBWcnq0/CEpbJjOeP/LS8HgQ1VIIEQ1G1\nw5TaBw+pIX4m2ycJat+nMmVEMcfRBriDJME9JqDzTi1NMvv5bs+FXvlOxX2srz0m\nL59k2TUpoH7/ADdvN77Run+sJepcEBc72ZqYP7wtcx/lyc3pVJ+WOgCi1p2vK/vR\nw0isU1pdAgMBAAECggEAAJV5paLzmVo3V0/29E7fxe+pvKyavVWXyZZK+rAyc9Zi\nmRZg9/WUqyvun/hRRbujdWoRAP0nPAETDj79OzApj67Q3oPrwg0hpGc9YE+M+Z1C\nsxb5bwSk59q++iIN+SjGDUP6ZzfSIKyvvD48So7mUd0uVfazJf4OhPVQwd8DMYaK\n6gkVonvsotpOtHJyzunTVgnAzpTdkqxUsnt9H6ph6+vQhj5XEnjS1dydAwEltbij\n0TOaQYxDI4nOMws54ZJMC9dh7No4uXzTlX4pk5nMZNNH9iS2XB+ZmaalyXJTebIG\nbNoQoT/P61xNuW2WsS1b/LhDi5T9z00iKIG9bHBsgQKBgQD/Q23wxmG3omSg9pzt\n2IQJUe6M7ChSwGyDxU/njM0JBHHseRo7+LCsfntmBUtVz/NzHraUHRmQokMcqSYz\nwwRO2tBVD+j3UxZCUwRgaWpDaY7Uol2eXro/zbZGHRThL5c70Ed9vskyaA2mH80T\nP0NBDKlTduzb1vuSuFmujAQATQKBgQC9buqj6U8E7aAyo1kb83X2OiNPxhlJjyPK\nSIEdVhKmW0FjVrLjgHcbcjK1dZeq7wsPK8948JcY27HUF2ozvpCO8pU873P9kZBH\nlrL55fL6XRsVcDzv0vEf4/53GzTe48+tj9EBx+MeExc0/7P+K4CduKkKtVxsY2ot\nViEbB11KUQKBgQCm6Awm91BFpmVt6lLKIlyTS4NTmcbz9OX/czDAEoyubL2hBb5l\noELFRx6goq2TuplQmLCBQFXLAI4pW2CjT8ytUt4OAI0vyqAvVeDyuXrGAWtnFZNp\nTj8yIOwiBDn21AtrDNDyI6Gi1+60xO5uu1raWdENxiExzexJD0l0nBCxsQKBgEgJ\nV91BKbV8D8Fx8L76VE9wSGFbud4JOtj/vWnEg48TgMgf/iMZhTHAuZvbvfNYt+Hr\nDRi2lR703KkExnQq8ZoKkcn8XSV+J1mx6xmw4jdnFJeQePvSQbOY5fmxNOfVxfIA\nkMCWnL2hEOAspOvw6xYPVOknkp/9JjFbYXd/03AhAoGBAMOFj3dhyoIT1wJNiVzC\ndfbmNzimTvk3b81Y7FjprgZVUeAGv+P0WBmf4lUPN5gK8AXvym51h7oWlDYFPnZj\n27qC0uO50LESR+TF7/ZseA/rlGhraMUWeoNHzSRrTmZErBoid2iEhCRKPOI51WAP\nmZZXudJuMxd1m+JXNabvqYdC\n-----END PRIVATE KEY-----\n",
+  "client_email": "softstep-preset-management@softstepintegration.iam.gserviceaccount.com",
+  "client_id": "101981697030235882315",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/softstep-preset-management%40softstepintegration.iam.gserviceaccount.com"
+}
